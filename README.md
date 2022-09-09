@@ -1,6 +1,6 @@
 # VimGolf
 
-https://www.vimgolf.com/
+VimGolf challenges
 
 ## Requirements
 
