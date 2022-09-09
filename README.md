@@ -14,6 +14,8 @@ bundle install --path vendor
 bundle exec vimgolf setup
 ```
 
+## Doing a Challenge
+
 ```
 bundle exec vimgolf put [challenge ID]
 ```
